@@ -1,10 +1,28 @@
 [
     {
         "name": "Tokyo",
-        "data": [8.9, 9.9, 4.9, 7.1]
+        "data": [
+            {
+                "value": 4.5,
+                "date": "Jan"
+            },
+            {
+                "value": 7.3,
+                "date": "Feb"
+            },
+        ]
     },
     {
         "name": "New York",
-        "data": [3.4, 2.4, 5]
+        "data": [
+            {
+                "value": 8.5,
+                "date": "Jan"
+            },
+            {
+                "value": 3.3,
+                "date": "Feb"
+            },
+        ]
     }
 ]
