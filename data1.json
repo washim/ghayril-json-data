@@ -3,12 +3,12 @@
         "name": "Tokyo",
         "data": [
             {
-                "value": 4.5,
-                "date": "Jan"
+                "y": 4.5,
+                "x": "Jan"
             },
             {
-                "value": 7.3,
-                "date": "Feb"
+                "y": 7.3,
+                "x": "Feb"
             },
         ]
     },
@@ -16,12 +16,12 @@
         "name": "New York",
         "data": [
             {
-                "value": 8.5,
-                "date": "Jan"
+                "y": 8.5,
+                "x": "Jan"
             },
             {
-                "value": 3.3,
-                "date": "Feb"
+                "y": 3.3,
+                "x": "Feb"
             },
         ]
     }
