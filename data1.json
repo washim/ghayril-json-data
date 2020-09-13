@@ -1,7 +1,4 @@
 {
-    "chart": {
-        "renderTo": "container"
-    },
     "title": {
         "text": "Monthly Average Temperature",
         "x": 0
